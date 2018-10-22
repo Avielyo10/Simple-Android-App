@@ -12,7 +12,7 @@
 
     <ImageView
         android:id="@+id/myImage"
-        android:layout_weight="9"
+        android:layout_weight="36"
         android:layout_width="match_parent"
         android:layout_height="fill_parent"
         tools:srcCompat="@tools:sample/avatars" />
